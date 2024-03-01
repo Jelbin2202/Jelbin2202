@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jelbin Jacob Johnson
+- 👋 Hi, I’m Jelbin Jacob Johnson
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on companies with new innovations  
